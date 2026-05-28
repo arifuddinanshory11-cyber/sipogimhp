@@ -1,0 +1,11 @@
+# .eslintignore
+node_modules/
+dist/
+build/
+*.config.js
+
+# .prettierignore
+node_modules/
+dist/
+build/
+package-lock.json
