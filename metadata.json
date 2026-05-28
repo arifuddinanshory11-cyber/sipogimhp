@@ -1,0 +1,6 @@
+{
+  "name": "SI-PoGi",
+  "description": "Sistem Informasi Posyandu dan Monitoring Status Gizi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
